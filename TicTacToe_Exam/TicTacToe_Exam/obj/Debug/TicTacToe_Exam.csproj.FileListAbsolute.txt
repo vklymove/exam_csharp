@@ -1,0 +1,9 @@
+C:\Users\Cлавундер\source\repos\TicTacToe_Exam\TicTacToe_Exam\bin\Debug\TicTacToe_Exam.exe.config
+C:\Users\Cлавундер\source\repos\TicTacToe_Exam\TicTacToe_Exam\bin\Debug\TicTacToe_Exam.exe
+C:\Users\Cлавундер\source\repos\TicTacToe_Exam\TicTacToe_Exam\bin\Debug\TicTacToe_Exam.pdb
+C:\Users\Cлавундер\source\repos\TicTacToe_Exam\TicTacToe_Exam\obj\Debug\TicTacToe_Exam.csprojAssemblyReference.cache
+C:\Users\Cлавундер\source\repos\TicTacToe_Exam\TicTacToe_Exam\obj\Debug\TicTacToe_Exam.Form1.resources
+C:\Users\Cлавундер\source\repos\TicTacToe_Exam\TicTacToe_Exam\obj\Debug\TicTacToe_Exam.Properties.Resources.resources
+C:\Users\Cлавундер\source\repos\TicTacToe_Exam\TicTacToe_Exam\obj\Debug\TicTacToe_Exam.csproj.GenerateResource.cache
+C:\Users\Cлавундер\source\repos\TicTacToe_Exam\TicTacToe_Exam\obj\Debug\TicTacToe_Exam.exe
+C:\Users\Cлавундер\source\repos\TicTacToe_Exam\TicTacToe_Exam\obj\Debug\TicTacToe_Exam.pdb
